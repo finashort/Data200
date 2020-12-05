@@ -1,0 +1,133 @@
+---
+title: "Fina Short Resume"
+author: Fina Short
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+<!-- ![Data](`r here::here("data_icon.png")`) -->
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> fina.short@gmail.com
+- <i class="fa fa-github"></i> [github.com/finashort/](https://github.com/finashort/)
+- <i class="fa fa-phone"></i> +1 425-241-4048
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Professional working proficiency in French, Spanish and Chinese
+
+- Wrote production-level R/Python/STATA for data analytics
+
+- Mapping with ArcGISPro, QGIS
+
+- TEFL Certified, Malaysia 2022 Fulbright ETA Grantee 
+
+- 4 years of content and copy editing experience with AP style
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Fina Short {#title}
+--------------------------------------------------------------------------------
+
+### Data analysis and foreign policy expert seeking Summer 2021 internship
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+MS Candidate in Data Analytics
+
+Medford, MA
+
+Sep. 2020--Current
+
+
+### Tufts University
+
+B.A. International Relations, Political Science
+
+Medford, MA 
+
+Sep. 2016--May 2020
+
+
+
+Work Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Research Analyst, Copy Editor
+
+Foreign Brief 
+
+Remote
+
+May 2020--Present
+
+-Promoted to join editors’ team after 4 months; now provide weekly content and copy edits on 175-word briefs
+
+-Monitor Reuters and Dow Jones Factiva newswires to generate pitches on breaking international news
+
+-Have written over 40 briefs synthesizing geopolitical significance of developments in foreign affairs
+
+### Economics Research Assistant
+
+Tufts University
+
+Medford, MA
+
+June 2019--July 2019
+
+-Used STATA, Excel and PowerPoint to generate visualizations of variable correlations from raw datasets measuring compliance with International Labor Organization standards 
+
+-Wrote and edited 20+ briefs for Southeast-Asia focused Empowering Women in Humane Workplaces report
+
+### Development and Communications Tisch Fellow
+
+National Law Center on Homelessness & Poverty
+
+Washington, DC
+
+June 2018--Aug. 2018
+
+-Fully responsible for creating multimedia content across 4 platforms with 25,000+ followers
+
+-Wrote 3 press releases, tracked news coverage, maintained all social media, produced 25+ graphic images
+
+
+Selected Presentations {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+### Middlebury Schools in China Thesis
+Wrote 6000-character thesis in Mandarin Chinese synthesizing research on China’s rural floating populations, delivered 20-minute final presentation in Chinese
+
+Kunming, China
+
+Dec. 2019
+
+
